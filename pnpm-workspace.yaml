@@ -1,5 +1,6 @@
+
 allowBuilds:
-  '@google/genai': set this to true or false
-  protobufjs: set this to true or false
-  sharp: false
-  unrs-resolver: false
+  '@google/genai': true
+  protobufjs: true
+  sharp: true
+  unrs-resolver: true
